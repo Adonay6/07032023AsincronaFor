@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\Adofor\bin\Debug\net6.0\Adofor.exe
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\Adofor\bin\Debug\net6.0\Adofor.deps.json
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\Adofor\bin\Debug\net6.0\Adofor.runtimeconfig.json
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\Adofor\bin\Debug\net6.0\Adofor.dll
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\Adofor\bin\Debug\net6.0\Adofor.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\Adofor\obj\Debug\net6.0\Adofor.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\Adofor\obj\Debug\net6.0\Adofor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\Adofor\obj\Debug\net6.0\Adofor.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\Adofor\obj\Debug\net6.0\Adofor.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\Adofor\obj\Debug\net6.0\Adofor.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\Adofor\obj\Debug\net6.0\Adofor.dll
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\Adofor\obj\Debug\net6.0\refint\Adofor.dll
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\Adofor\obj\Debug\net6.0\Adofor.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\Adofor\obj\Debug\net6.0\Adofor.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\Adofor\obj\Debug\net6.0\ref\Adofor.dll

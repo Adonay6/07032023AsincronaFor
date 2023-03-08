@@ -1,0 +1,5 @@
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\ForAdonay\obj\Debug\net6.0\ForAdonay.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\ForAdonay\obj\Debug\net6.0\ForAdonay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\ForAdonay\obj\Debug\net6.0\ForAdonay.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\ForAdonay\obj\Debug\net6.0\ForAdonay.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Documents\GitHub\07032023AsincronaFor\Asincronafor\ForAdonay\obj\Debug\net6.0\ForAdonay.csproj.CoreCompileInputs.cache
